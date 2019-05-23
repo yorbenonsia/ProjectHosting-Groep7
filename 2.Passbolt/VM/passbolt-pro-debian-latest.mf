@@ -1,0 +1,2 @@
+SHA256(passbolt-pro-debian-latest.ovf)= e002bd411f870a74efa64f69aa3efd9637e660c6410b2ec01c4a216cf6452dc9
+SHA256(passbolt-pro-debian-latest-disk1.vmdk)= f03d1a244a1b81a7a32e8281e4bb87ef4edebab5659ff172a35fc27cda9e965d

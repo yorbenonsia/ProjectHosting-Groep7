@@ -1,0 +1,5 @@
+SHA256(Team 7 - DNS via Puppet2.ovf)= 1a55ba809f2c11ac56d858c1ce8c23bef0d6ed290deb29d5dae105df7988e77c
+SHA256(Team_7_-_DNS_via_Puppet2-file1.flp)= f3debe9af9228ca5d5abee6c19e25e44fd56c7a153822c89849d2c41c66f7307
+SHA256(Team_7_-_DNS_via_Puppet2-disk1.vmdk)= 7b53010a8ba4fc5507f9dd70ea192ec58503f7da40e4cb42c35a033a1750646a
+SHA256(Team_7_-_DNS_via_Puppet2-file2.iso)= 618dde125239e628a412ca194df61c5ef90e3aceeed4aa478835bde930b9fd7c
+SHA256(Team_7_-_DNS_via_Puppet2-file3.iso)= 7b37dfcd082726303528e47c82f88f29c1dc9232f8fd39120d13749ae83cc463

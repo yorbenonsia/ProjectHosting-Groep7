@@ -1,0 +1,18 @@
+#plaats dit bestand in /srv/puppet/files
+;
+; BIND data file for local loopback interface
+;
+$TTL	604800
+@	IN	SOA	dns.team7.com. root.team7.com. (
+			      2		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@	IN	NS	dns.team7.com.
+;
+dns	IN	A	172.27.66.170
+*	IN	A	172.27.66.171
+zabbix	IN	A	172.27.66.172
+osticket	IN	A	172.27.66.172

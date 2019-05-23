@@ -1,0 +1,13 @@
+#The loopback network interface
+auto lo
+iface lo inet loopback
+
+#The primary network interface
+allow-hotplug ens33
+iface ens33 inet static
+address 172.27.66.173
+netmask 255.255.255.0
+network 172.27.66.0
+broadcast 172.27.66.255
+gateway 172.27.66.254
+dns-nameservers 8.8.8.8

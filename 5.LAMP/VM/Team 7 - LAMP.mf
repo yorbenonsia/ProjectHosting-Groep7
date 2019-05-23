@@ -1,0 +1,2 @@
+SHA256(Team 7 - LAMP.ovf)= 2b19ae7f3fdfcd07e016f37ffeb661981ae07a77000131f40f7d8dcce90d5be9
+SHA256(Team_7_-_LAMP-disk1.vmdk)= 0e9dd402dbfac5aabd78f1b3f2fac9794e0f2df2554d36d89e05c521f8c49021

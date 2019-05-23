@@ -1,0 +1,1 @@
+/usr/sbin/chkrootkit > "chk-$(date +%Y-%m-%d)"
